@@ -1,17 +1,10 @@
-CSS
 
-p{
-    color: rgb(13, 12, 12);
-    text-decoration:underline
+li {
+    color: blue;
 }
-div{
-    color: crimson;
-    text-decoration: maroon
-    
-
- 
-
-
-    
-
+p {
+    color: chartreuse;
+}
+button {
+    text-underline-position: below;
 }
